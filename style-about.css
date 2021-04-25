@@ -1,0 +1,28 @@
+body{
+    background-color: #FFF8DC;
+}
+
+h2{
+    color: #DC143C;
+    font-size: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h3{
+    color: #FF4500;
+ 
+}
+
+body p{
+    font-size: 16px;
+    font-family: cursive;
+}
+
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.post{
+    margin: 10px;
+}
